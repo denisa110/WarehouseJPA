@@ -1,0 +1,8 @@
+BagDetails\entities\Person.class
+BagDetails\entities\BaseId.class
+BagDetails\entities\Size.class
+BagDetails\entities\test\TestBags.class
+BagDetails\entities\test\TestPerson.class
+BagDetails\entities\Country.class
+BagDetails\entities\Deposit.class
+BagDetails\entities\Bag.class
